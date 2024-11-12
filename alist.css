@@ -1,3 +1,6 @@
+/*
+用于文件目录美化以及背景图
+*/
 
 body {
     background-image: url('http://api.hancat.work/cloud/api.php'); /* 将此处替换为你自己的背景图api地址 */
