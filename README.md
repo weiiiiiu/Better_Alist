@@ -12,9 +12,8 @@
    * 将以下内容添加到对应框框内
      * 自定义头部  
         ```html
-        <link href="https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/alist.css" rel="stylesheet" type="text/css">  
+        <link href="https://cdn.jsdelivr.net/gh/weiiiiiu/Better_Alist@main/alist.css" rel="stylesheet" type="text/css"> 
         ```  
-
      * 自定义内容  
 
         ```html
